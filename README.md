@@ -5,12 +5,11 @@
   "firstName": "Jean-Baptiste",
   "lastName": "Lelandais",
   "age": 20,
-  "country" : "France"
+  "country" : "France",
+  "job" : "engineering school student & Fullstack developer"
+  "career goals" : "Freelancing"
 }
 ```
-
-I'm a full-stack developper and student in an engineering school. Plan to potentially work in freelance once I get enough experience.
-
 # Skills*
 #### Mockup
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
