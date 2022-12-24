@@ -66,11 +66,19 @@ I'm a full-stack developper and student in an engineering school. Plan to potent
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 --------------------------------------------------------------------------
-*I'm not using all these technologies everyday but I have the knowledge to adapt quickly on them if needeed
+*I'm not using all these technologies everyday but I have the knowledge to adapt quickly on them if needeed.
+
+# My projects
+
+#### Portfolio
+![50%](https://progress-bar.dev/95/)
+#### MMO development
+![50%](https://progress-bar.dev/20/?title=gathering_ideas)
+#### Translation for FreeCodeCamp
+> :warning: **No time right now but hope to get back to it soon.**
 <!---
 jibait/jibait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
