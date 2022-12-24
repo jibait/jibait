@@ -1,4 +1,4 @@
-# About me
+# :man: About me
 
 ```json
 {
@@ -10,7 +10,7 @@
   "career goals" : "Freelancing"
 }
 ```
-# Skills*
+# :wrench: Skills
 #### Mockup
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -68,9 +68,9 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 --------------------------------------------------------------------------
-*I'm not using all these technologies everyday but I have the knowledge to adapt quickly on them if needeed.
+> **I'm not using all these technologies everyday but I have the knowledge to adapt quickly on them if needeed.**
 
-# My projects
+# :pushpin: My projects
 
 #### Portfolio
 ![50%](https://progress-bar.dev/95/)
@@ -78,6 +78,11 @@
 ![50%](https://progress-bar.dev/20/?title=gathering_ideas)
 #### Translation for FreeCodeCamp
 > :warning: **No time right now but hope to get back to it soon.**
+
+# :fire: Some of my Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jibait&theme=neon-dark&hide_border=true&border_radius=15)](https://git.io/streak-stats) 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jibait&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 jibait/jibait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
