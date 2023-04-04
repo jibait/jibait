@@ -6,7 +6,7 @@
   "lastName": "Lelandais",
   "age": 20,
   "country" : "France",
-  "job" : "engineering school student & Fullstack developer"
+  "job" : "Engineering school student & Fullstack developer"
   "career goals" : "Freelancing"
 }
 ```
