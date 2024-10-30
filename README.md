@@ -4,7 +4,7 @@
 {
   "firstName": "Jean-Baptiste",
   "lastName": "Lelandais",
-  "age": 21,
+  "age": 22,
   "country" : "France",
   "job" : "Engineering school student & Fullstack developer"
   "career goals" : "Freelancing"
