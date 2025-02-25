@@ -70,15 +70,6 @@
 --------------------------------------------------------------------------
 > **I'm not using all these technologies everyday but I have the knowledge to adapt quickly on them if needeed.**
 
-# :pushpin: My projects
-
-#### Portfolio
-![50%](https://progress-bar.dev/95/)
-#### MMO development
-![50%](https://progress-bar.dev/20/?title=gathering_ideas)
-#### Translation for FreeCodeCamp
-> :warning: **No time right now but hope to get back to it soon.**
-
 # :fire: Some of my Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jibait&theme=neon-dark&hide_border=true&border_radius=15)](https://git.io/streak-stats) 
 ---
